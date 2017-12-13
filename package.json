@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code-2017",
+  "version": "1.0.0",
+  "description": "Solutions? in JavaScript to Advent of Code 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha day-*/test.js",
+    "lint": "eslint ."
+  },
+  "author": "JZenk",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.13.1",
+    "mocha": "^4.0.1"
+  }
+}
